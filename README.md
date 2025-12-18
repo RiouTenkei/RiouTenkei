@@ -1,47 +1,41 @@
-## 🏦 Riou Tenkei
+# 🏦 Riou Tenkei (Oliver Hannam)
 
-👋 Hi, I’m Riou Tenkei, currently a Junior at Sedulo, a finance firm where I blend finance with tech to create impactful projects. 
+👋 **Hi, I’m Oliver.** I am a Co-Owner of **Mantle Core Ventures** and the Managing Director of **Mantle Web Developments**.
 
-### 👀 Interests
-- **Data Analysis**: I love diving into data to uncover insights and drive efficiencies.
-- **Workplace Efficiencies**: Streamlining processes and creating tools to enhance productivity in finance and accounting.
+I bridge the gap between financial rigour and creative software architecture. As a **Part-Qualified Accountant** turned **Software Engineer**, I don't just write code; I build business solutions that drive efficiency, scalability, and ROI.
 
-### 🌱 Currently Learning
-- **Python**: Enhancing my data analysis and web development skills.
-- **PHP**: Expanding my backend development knowledge.
+### 🚀 About Me
+I specialize in solving complex business problems through robust backend architecture and reactive frontends. My background in finance allows me to approach development with a unique perspective—focusing on data integrity, workflow optimization, and tangible value.
 
 ---
 
-### 🔨 Projects
+### 🛠 Tech Stack & Proficiency
 
-#### 1. **Silent Auction Platform**
-- **Tech Stack**: React, Python Flask, PostgreSQL, Flask-SQLAlchemy, Tailwind CSS
-- **Description**: A real-time bidding application used at the Sedulo Foundation Colour Ball Event, raising £16,000 for charity.
-- **Features**: 
-  - Real-time bidding with WebSockets
-  - User-friendly React frontend
-  - Robust backend with Flask and PostgreSQL
-- **Role**: Full Stack Developer
-- **VCS**: Git & GitHub using a feature, bugfix, hotfix strategy
+I focus on modern, scalable architectures using the best tools for the job.
 
----
+**Backend Engineering**
+- **PHP (Expertise)**: Proficient in **Laravel** and **Symfony**. I build secure, RESTful APIs and complex backend systems.
+- **Python**: Utilized for data analysis and specific microservices.
 
-### 💻 Skills
+**Frontend Development**
+- **Primary**: **React** & **Next.js**. Creating performant, SEO-friendly, and highly interactive user interfaces.
+- **Secondary**: Vue.js & Nuxt.
 
-- **Languages**: Python, JavaScript, PHP (learning)
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Flask, SQLAlchemy
-- **Database**: PostgreSQL
-- **Tools**: Git, GitHub, NPM
+**Infrastructure & Tools**
+- **Database**: PostgreSQL, MySQL and MongoDB.
+- **DevOps/Tools**: Git and Docker.
 
 ---
 
-### 🎯 Goals
-- **Short-term**: Improve my web development skills and master PHP.
-- **Long-term**: Create innovative solutions that drive efficiency and effectiveness in finance and accounting.
+### 🏢 Mantle Web Developments
+*As Managing Director, I oversee the technical direction and delivery of bespoke software solutions.*
+
+My focus is on delivering:
+- **Scalable Architecture**: Systems designed to grow with the client.
+- **Business Logic Integration**: Translating complex accounting/operational needs into code.
 
 ---
 
-### 📫 Get in Touch
+### 📫 Connect
 - **GitHub**: [RiouTenkei](https://github.com/RiouTenkei)
 - **LinkedIn**: [Oliver Hannam](https://www.linkedin.com/in/oliverhannam/)
