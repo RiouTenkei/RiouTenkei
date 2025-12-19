@@ -1,6 +1,6 @@
 # 🏦 Riou Tenkei (Oliver Hannam)
 
-👋 **Hi, I’m Oliver.** I am a Co-Owner of **Mantle Core Ventures** and the MD of **Mantle Web Developments**.
+👋 **Hi, I’m Oliver.** I am a Co-Owner of **Mantle Core Ventures** and of **Mantle Web Developments**.
 
 I bridge the gap between financial rigour and creative software architecture. As a **Part-Qualified Accountant** turned **Software Engineer**, I don't just write code; I build business solutions that drive efficiency, scalability, and ROI.
 
